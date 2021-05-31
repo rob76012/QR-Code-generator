@@ -9,6 +9,8 @@ This project aims to be the best, clearest QR Code generator library in multiple
 
 Home page with live JavaScript demo, extensive descriptions, and competitor comparisons: [https://www.nayuki.io/page/qr-code-generator-library](https://www.nayuki.io/page/qr-code-generator-library)
 
+Added by RGS - 
+
 
 Features
 --------
